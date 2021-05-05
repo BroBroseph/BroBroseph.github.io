@@ -1,5 +1,12 @@
-<h10 style="font-weight: bold; font-style: em; color: red;"></h10>
+h10{
+  font-size: large;
+  font-weight: bold; 
+  font-style: em; 
+  color: red;
+  }
 
-<p style="color: brown;"></p>
+p{
+  color: brown;
+  }
 
 
