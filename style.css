@@ -2,6 +2,10 @@ body{
   background-color: lightBlue;
   }
 
+img{
+  transform: rotate(15deg);
+  }
+
 h1{
   font-weight: bold; 
   font-style: italic;
