@@ -2,7 +2,7 @@ body{
   background-color: lightBlue;
   }
 
-img{
+strong{
   transform: rotate(15deg);
   margin: 20px 20px 20px 20px;
   border-radius: 90px 90px 10px 10px;
