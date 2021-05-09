@@ -1,5 +1,8 @@
-body{
+html{
   background: linear-gradient(lightBlue, teal, blue);
+  }
+
+body{
   text-align: center;
   }
 
