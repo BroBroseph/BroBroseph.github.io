@@ -1,9 +1,12 @@
 
 
 body{
-  background-image: linear-gradient(to bottom, lightBlue, teal, blue);
+  background: linear-gradient(lightBlue, teal, blue);
   height: 100%;
   width: 100%;
+  }
+
+.head{
   text-align: center;
   }
 
