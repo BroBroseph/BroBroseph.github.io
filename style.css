@@ -12,12 +12,12 @@ body{
 
 .dinkle img{
   transform: rotate(15deg);
-  margin: 0px 20px 40px 20px;
+  margin: 20px 20px 40px 20px;
   border-radius: 90px 90px 10px 10px;
   }
 
 .hadOne{
-  font-size: large;
+  font-size: 25px;
   font-weight: bold; 
   font-style: italic;
   color: red;
