@@ -15,13 +15,13 @@ body{
   border-radius: 90px 90px 10px 10px;
   }
 
-h1{
+.hadOne{
   font-weight: bold; 
   font-style: italic;
   color: red;
   }
 
-p{
+.horse{
   color: brown;
   }
 
