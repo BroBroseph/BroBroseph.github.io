@@ -9,17 +9,19 @@ body{
 
 .dinkle img{
   transform: rotate(15deg);
-  margin: 20px 20px 20px 20px;
+  margin: 0px 20px 40px 20px;
   border-radius: 90px 90px 10px 10px;
   }
 
 .hadOne{
+  font-size: large;
   font-weight: bold; 
   font-style: italic;
   color: red;
   }
 
 .horse{
+  font-weight: bold;
   color: brown;
   }
 
